@@ -1,0 +1,45 @@
+D:\Coding C#\datamining\datamining\bin\Debug\datamining.exe.config
+D:\Coding C#\datamining\datamining\obj\Debug\datamining.csprojResolveAssemblyReference.cache
+D:\Coding C#\datamining\datamining\obj\Debug\datamining.Form1.resources
+D:\Coding C#\datamining\datamining\obj\Debug\datamining.Properties.Resources.resources
+D:\Coding C#\datamining\datamining\obj\Debug\datamining.csproj.GenerateResource.Cache
+D:\Coding C#\datamining\datamining\bin\Debug\datamining.exe
+D:\Coding C#\datamining\datamining\bin\Debug\datamining.pdb
+D:\Coding C#\datamining\datamining\obj\Debug\datamining.exe
+D:\Coding C#\datamining\datamining\obj\Debug\datamining.pdb
+D:\Coding C#\datamining2\datamining\bin\Debug\datamining.exe.config
+D:\Coding C#\datamining2\datamining\obj\Debug\datamining.exe
+D:\Coding C#\datamining2\datamining\obj\Debug\datamining.pdb
+D:\Coding C#\datamining2\datamining\bin\Debug\datamining.exe
+D:\Coding C#\datamining2\datamining\bin\Debug\datamining.pdb
+D:\Coding C#\datamining2\datamining\obj\Debug\datamining.csprojResolveAssemblyReference.cache
+D:\Coding C#\datamining2\datamining\obj\Debug\datamining.Form1.resources
+D:\Coding C#\datamining2\datamining\obj\Debug\datamining.Properties.Resources.resources
+D:\Coding C#\datamining2\datamining\obj\Debug\datamining.csproj.GenerateResource.Cache
+I:\BAYER\datamining2\datamining\bin\Debug\datamining.exe.config
+I:\BAYER\datamining2\datamining\obj\Debug\datamining.exe
+I:\BAYER\datamining2\datamining\obj\Debug\datamining.pdb
+I:\BAYER\datamining2\datamining\bin\Debug\datamining.exe
+I:\BAYER\datamining2\datamining\bin\Debug\datamining.pdb
+I:\BAYER\datamining2\datamining\obj\Debug\datamining.csprojResolveAssemblyReference.cache
+I:\BAYER\datamining2\datamining\obj\Debug\datamining.Form1.resources
+I:\BAYER\datamining2\datamining\obj\Debug\datamining.Properties.Resources.resources
+I:\BAYER\datamining2\datamining\obj\Debug\datamining.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\bin\Debug\datamining.exe.config
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\obj\Debug\datamining.exe
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\obj\Debug\datamining.pdb
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\bin\Debug\datamining.exe
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\bin\Debug\datamining.pdb
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\obj\Debug\datamining.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\obj\Debug\datamining.Form1.resources
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\obj\Debug\datamining.Properties.Resources.resources
+C:\Users\asus\Desktop\DATA BASE\BAYER\datamining2\datamining\obj\Debug\datamining.csproj.GenerateResource.Cache
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\bin\Debug\datamining.exe.config
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\obj\Debug\datamining.exe
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\obj\Debug\datamining.pdb
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\bin\Debug\datamining.exe
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\bin\Debug\datamining.pdb
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\obj\Debug\datamining.csprojResolveAssemblyReference.cache
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\obj\Debug\datamining.Form1.resources
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\obj\Debug\datamining.Properties.Resources.resources
+D:\PELITA BANGSA\SEMESTER 8\naive bayes\datamining2\datamining\obj\Debug\datamining.csproj.GenerateResource.Cache
